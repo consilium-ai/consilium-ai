@@ -1,0 +1,12 @@
+model/
+data/*.json
+data/*.txt
+data/experiments/
+*.pyc
+__pycache__/
+.venv/
+*.egg-info/
+dist/
+build/
+.DS_Store
+.pytest_cache/

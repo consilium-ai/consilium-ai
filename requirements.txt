@@ -1,0 +1,5 @@
+mlx>=0.21.0
+mlx-lm>=0.20.0
+ddgs>=6.0
+fpdf2>=2.7.0
+turboquant-mlx @ git+https://github.com/helgklaizar/turboquant_mlx.git
